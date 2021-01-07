@@ -1,5 +1,5 @@
 ### I know & using(Languages and Tools)
-<img src="https://user-images.githubusercontent.com/71884766/103862520-9bc38a80-5102-11eb-87bd-120535620eb5.png" width="">
+<img src="https://user-images.githubusercontent.com/71884766/103862520-9bc38a80-5102-11eb-87bd-120535620eb5.png" width=10px>
 
 <!--
 **ryosuke1256/ryosuke1256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
