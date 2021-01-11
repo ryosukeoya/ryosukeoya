@@ -1,6 +1,6 @@
 Languages and Tools:
--HTML&CSS
--javascript
+- HTML&CSS
+- javascript
 typescript
 React
 Node.js
