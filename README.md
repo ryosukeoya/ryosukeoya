@@ -1,8 +1,12 @@
 # Languages and Tools:
-・ HTML&CSS    ・PHP <br>
-・ javascript  ・python<br>
-・ typescript  ・Node.js<br>
-・ React       ・SQL<br>
+- HTML&CSS   
+- javascript
+- typescript
+- React     
+- Node.js
+- PHP
+- python
+- SQL
 
 
 
