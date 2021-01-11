@@ -1,11 +1,8 @@
 # Languages and Tools:
 - HTML&CSS   
-- javascript
-- typescript
+- javascript,typescript
 - React     
-- Node.js
-- PHP
-- python
+- Node.js,PHP,python
 - SQL
 
 
