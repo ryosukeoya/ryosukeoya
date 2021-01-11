@@ -1,4 +1,4 @@
-# rg<span style="color: red; ">Languages and Tools:</span>
+# Languages and Tools:
 - HTML&CSS
 - javascript
 - typescript
