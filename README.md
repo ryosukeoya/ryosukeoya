@@ -1,12 +1,9 @@
 # Languages and Tools:
-- HTML&CSS
+・ HTML&CSS 
 - javascript
 - typescript
 - React
-- Node.js
-- PHP
-- python 
-- SQL
+
 
 
 ![ryosuke1256 github stats](https://github-readme-stats.vercel.app/api?username=ryosuke1256&count_private=true&show_icons=true&theme=buefy)
