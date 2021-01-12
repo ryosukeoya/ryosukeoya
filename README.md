@@ -4,6 +4,7 @@
 - React     
 - Node.js,PHP,python
 - SQL
+- firebase,Git,GitHub
 
 
 
