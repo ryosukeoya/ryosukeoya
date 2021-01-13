@@ -1,10 +1,10 @@
 # Languages and Tools:
 - HTML&CSS   
-- javascript,typescript
+- Javascript,Typescript
 - React     
-- Node.js,PHP,python
+- Node.js,PHP,Python
 - SQL
-- firebase,Git,GitHub
+- Firebase,Git,GitHub
 
 
 
