@@ -9,7 +9,7 @@
 
 
 ![ryosuke1256 github stats](https://github-readme-stats.vercel.app/api?username=ryosuke1256&count_private=true&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosuke1256&langs_count=9&theme=buefy&layout=compact)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosuke1256&langs_count=&theme=buefy&layout=compact)<br>
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
 <!--
 **ryosuke1256/ryosuke1256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
