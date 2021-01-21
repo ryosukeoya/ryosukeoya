@@ -5,7 +5,7 @@
 - Node.js,PHP,Python
 - SQL
 - Firebase,Git,GitHub
-
+- g
 
 
 ![ryosuke1256 github stats](https://github-readme-stats.vercel.app/api?username=ryosuke1256&count_private=true&show_icons=true&theme=buefy)
