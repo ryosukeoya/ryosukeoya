@@ -6,7 +6,7 @@
 - SQL
 - Firebase,Git,GitHub
 
-<img src="https://github.com/ryosuke1256/image">
+<img src="https://github.com/ryosuke1256/image/blob/main/Qiita.png">
 https://ryosuke1256.github.io/portfolio/  
 https://qiita.com/e8750520
 
