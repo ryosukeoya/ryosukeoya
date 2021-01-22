@@ -6,7 +6,7 @@
 - SQL
 - Firebase,Git,GitHub
 
-   &nbsp;Qiita &emsp; Portfolio site  
+   &nbsp;Qiita &ensp; Portfolio site  
 <a href="https://qiita.com/e8750520"><img src="https://github.com/ryosuke1256/image/blob/main/Qiita.png" width=50px></a>
 <a href="https://ryosuke1256.github.io/portfolio/"><img src="https://github.com/ryosuke1256/image/blob/main/icon1.png" width="50px"></a>
 
