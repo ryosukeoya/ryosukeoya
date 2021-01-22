@@ -6,7 +6,7 @@
 - SQL
 - Firebase,Git,GitHub
 
-https://ryosuke1256.github.io/portfolio/　　
+https://ryosuke1256.github.io/portfolio/  
 https://qiita.com/e8750520
 
 
