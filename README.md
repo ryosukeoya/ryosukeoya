@@ -6,7 +6,7 @@
 - SQL
 - Firebase,Git,GitHub
 
-<a href="https://qiita.com/e8750520"><img src="https://github.com/ryosuke1256/image/blob/main/Qiita.png" width=100px></a>  
+<a href="https://qiita.com/e8750520"><img src="https://github.com/ryosuke1256/image/blob/main/Qiita.png" width=50px></a>  
 https://ryosuke1256.github.io/portfolio/
 
 ![ryosuke1256 github stats](https://github-readme-stats.vercel.app/api?username=ryosuke1256&count_private=true&show_icons=true&theme=buefy)
