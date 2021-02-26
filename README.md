@@ -4,6 +4,7 @@
 - React     
 - PHP,Node.js,Python  
 - Laravel,Express  
+- Machine learning  
 - SQL,Firebase,Git,GitHub　　
 
    &nbsp;Qiita  
