@@ -1,8 +1,9 @@
 # Languages and Tools:
 - HTML&CSS,JavaScript,TypeScript
 - React,Next.js     
-- PHP,Node.js,Python(Machine learning)  
+- PHP,Node.js,  
 - Laravel,Express  
+- Python(Machine learning)  
 - SQL,Firebase
 
    &nbsp;Qiita  
