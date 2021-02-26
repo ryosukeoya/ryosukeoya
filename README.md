@@ -1,6 +1,5 @@
 # Languages and Tools:
-- HTML&CSS   
-- JavaScript,TypeScript
+- HTML&CSS,JavaScript,TypeScript
 - React,Next.js     
 - PHP,Node.js,Python  
 - Laravel,Express  
