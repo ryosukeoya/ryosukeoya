@@ -1,4 +1,4 @@
-# Skills:
+# Skills
 - JavaScript,TypeScript
 - React,Next.js     
 - PHP,Node.js,  
