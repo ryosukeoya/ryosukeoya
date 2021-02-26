@@ -1,7 +1,7 @@
 # Languages and Tools:
 - HTML&CSS   
 - Javascript,Typescript
-- React     
+- React,Next.js     
 - PHP,Node.js,Python  
 - Laravel,Express  
 - Machine learning  
