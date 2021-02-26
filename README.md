@@ -3,6 +3,7 @@
 - Javascript,Typescript
 - React     
 - Node.js,PHP,Python  
+- Laravel,Express  
 - SQL
 - Firebase,Git,GitHub　　
 
