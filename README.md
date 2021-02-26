@@ -1,4 +1,4 @@
-# Languages and Tools:
+# Skills:
 - JavaScript,TypeScript
 - React,Next.js     
 - PHP,Node.js,  
