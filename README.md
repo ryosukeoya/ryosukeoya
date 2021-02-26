@@ -2,7 +2,7 @@
 - HTML&CSS   
 - Javascript,Typescript
 - React     
-- Node.js,PHP,Python  
+- PHP,Node.js,Python  
 - Laravel,Express  
 - SQL,Firebase,Git,GitHub　　
 
