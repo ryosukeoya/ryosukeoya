@@ -3,7 +3,7 @@
 - React,Next.js     
 - PHP,Node.js,  
 - Laravel,Express  
-- Python(Machine learning)  
+- Python-Machine learning  
 - SQL,Firebase
 
    &nbsp;Qiita  
