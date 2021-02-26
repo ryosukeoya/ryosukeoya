@@ -1,10 +1,9 @@
 # Languages and Tools:
 - HTML&CSS,JavaScript,TypeScript
 - React,Next.js     
-- PHP,Node.js,Python  
+- PHP,Node.js,Python(Machine learning)  
 - Laravel,Express  
 - SQL,Firebase
-- Machine learning  
 
    &nbsp;Qiita  
 <a href="https://qiita.com/e8750520"><img src="https://github.com/ryosuke1256/image/blob/main/Qiita.png" width=50px></a>  
