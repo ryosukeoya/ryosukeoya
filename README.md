@@ -5,7 +5,7 @@
 - PHP,Node.js,Python  
 - Laravel,Express  
 - Machine learning  
-- SQL,Firebase,Git,GitHub　　
+- SQL,Firebase
 
    &nbsp;Qiita  
 <a href="https://qiita.com/e8750520"><img src="https://github.com/ryosuke1256/image/blob/main/Qiita.png" width=50px></a>  
