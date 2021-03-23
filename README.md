@@ -1,7 +1,5 @@
 ## Skills
-- JavaScript,TypeScript
-- React,Next.js     
-- PHP,Node.js,  
+- TypeScript,Next.js     
 - Laravel,Express  
 - AWS,Heroku,Firebase
 - Python-Machine learning  
