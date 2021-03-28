@@ -1,7 +1,7 @@
 ## Skills
 - TypeScript,Next.js     
 - Laravel,Express  
-- AWS,Heroku,Firebase
+- AWS,Firebase
 - Python-Machine learning  
 
    &nbsp;&nbsp;&thinsp;Qiita  
