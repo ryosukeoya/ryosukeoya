@@ -1,7 +1,7 @@
 ## Main Skills
 - TypeScript,Next.js     
 - Laravel  
-## Sub Skills  
+### Sub Skills  
 - AWS,Firebase  
 - Python-Machine learning   
 
