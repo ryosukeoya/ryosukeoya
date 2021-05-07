@@ -1,8 +1,10 @@
-## Skills
+## Main Skills
 - TypeScript,Next.js     
-- Laravel,Express  
-- AWS,Firebase
-- Python-Machine learning  
+- Laravel  
+## Sub Skills  
+- AWS,Firebase  
+- Python-Machine learning   
+- 
 
    &nbsp;&nbsp;&thinsp;Qiita  
 <a href="https://qiita.com/e8750520"><img src="https://github.com/ryosuke1256/image/blob/main/Qiita.png" width=50px></a>  
