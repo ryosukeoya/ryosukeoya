@@ -1,7 +1,7 @@
-## Main Skills
+## Main Skills?
 - TypeScript,Next.js     
 - Laravel  
-### Sub Skills  
+### Sub Skills?  
 - AWS
 
    &nbsp;&nbsp;&thinsp;Qiita  
