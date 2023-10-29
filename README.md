@@ -13,5 +13,5 @@
 <a href="https://www.codewars.com/users/ryosuke1256"><img src="https://github.com/ryosuke1256/image/blob/main/codewars-svgrepo-com.svg" width=50px></a>  
 
 
-![ryosuke1256 github stats](https://github-readme-stats.vercel.app/api?username=ryosuke1256&count_private=true&show_icons=true&theme=buefy&bg_color=blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosuke1256&langs_count=12&theme=buefy&layout=compact&hide=Shell,Blade,HTML,CSS)<br>
+![ryosuke1256 github stats](https://github-readme-stats.vercel.app/api?username=ryosuke1256&count_private=true&show_icons=true&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosuke1256&langs_count=12&theme=holi&layout=compact&hide=Blade,HTML,CSS)<br>
