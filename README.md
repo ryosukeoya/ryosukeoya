@@ -6,7 +6,7 @@
 - AWS
 
 
-&nbsp;&nbsp;&thinsp;Qiita　&nbsp;&nbsp;&thinsp;Zenn&nbsp;&nbsp;&thinsp;Codewars  
+&nbsp;&nbsp;&thinsp;Qiita　&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;Zenn&nbsp;&nbsp;&thinsp;Codewars  
 <a href="https://qiita.com/e8750520"><img src="https://github.com/ryosuke1256/image/blob/main/qiita-favicon.png" width=50px></a>&nbsp;&nbsp;&thinsp;
 <a href="https://zenn.dev/reactlover"><img src="https://github.com/ryosuke1256/image/blob/main/zenn.svg" width=50px></a>&nbsp;&nbsp;&thinsp;
 <a href="https://www.codewars.com/users/ryosuke1256"><img src="https://github.com/ryosuke1256/image/blob/main/codewars-svgrepo-com.svg" width=50px></a>  
