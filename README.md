@@ -1,6 +1,7 @@
 ## Main Skills
 - TypeScript,　Next.js     
-- PHP,　Laravel  
+- PHP,　Laravel
+
 ### Sub Skills  
 - AWS
 
