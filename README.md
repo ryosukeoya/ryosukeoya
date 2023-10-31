@@ -5,6 +5,7 @@
 - Laravel
 
 ### 📘 Sub Skills
+- Python
 - AWS
 
 ### ⛳️ Socials
