@@ -17,4 +17,4 @@
 
 
 ![ryosuke1256 github stats](https://github-readme-stats.vercel.app/api?username=ryosuke1256&rank_icon=github&count_private=true&show_icons=true&theme=holi)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosuke1256&langs_count=12&theme=holi&layout=compact&hide=Blade,HTML,CSS)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosuke1256&langs_count=16&theme=holi&layout=compact&hide=Blade,HTML,CSS)<br>
