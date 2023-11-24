@@ -6,6 +6,9 @@
 
 ### 📘 Sub Skills
 - Python
+- Go
+- C#
+- Java
 - AWS
 
 ### ⛳️ Activities
