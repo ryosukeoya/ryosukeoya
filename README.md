@@ -3,13 +3,14 @@
 - Next.js     
 - PHP
 - Laravel
+- Go
 
 ### 📘 Sub Skills
 - Python
-- Go
 - C#
 - Java
 - AWS
+- Azure
 
 ### ⛳️ Activities
 <a href="https://qiita.com/e8750520"><img src="https://github.com/ryosuke1256/image/blob/main/qiita-favicon.png" width=50px></a>&nbsp;&nbsp;&thinsp;
