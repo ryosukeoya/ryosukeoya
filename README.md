@@ -1,16 +1,16 @@
 ## 📚 Main Skills
+- Go
 - TypeScript
 - Next.js     
 - PHP
 - Laravel
-- Go
 
 ### 📘 Sub Skills
+- AWS
+- Azure
 - Python
 - C#
 - Java
-- AWS
-- Azure
 
 ### ⛳️ Activities
 <a href="https://qiita.com/e8750520"><img src="https://github.com/ryosukeoya/image/blob/main/qiita-favicon.png" width=50px></a>&nbsp;&nbsp;&thinsp;
