@@ -14,7 +14,7 @@
 - C#
 - Java
 
-### ⛳️ Activities
+### ⛳️ Socials
 
 <a href="https://qiita.com/e8750520"><img src="https://github.com/ryosukeoya/image/blob/main/qiita-favicon.png" width=50px></a>&nbsp;&nbsp;&thinsp;
 <a href="https://zenn.dev/reactlover"><img src="https://github.com/ryosukeoya/image/blob/main/zenn.svg" width=50px></a>&nbsp;&nbsp;&thinsp;
