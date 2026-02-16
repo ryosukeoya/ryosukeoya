@@ -23,5 +23,5 @@
 <a href="https://booklog.jp/users/ryobookxx" align="center"><img src="https://github.com/ryosukeoya/image/blob/main/fb_booklog.jpg" width=50px></a>&nbsp;&nbsp;&thinsp;
 <a href="https://www.codewars.com/users/ryosukeoya"><img src="https://github.com/ryosukeoya/image/blob/main/codewars-svgrepo-com.svg" width=50px></a>   
 
-![ryosukeoya github stats](https://github-readme-stats.vercel.app/api?username=ryosukeoya&rank_icon=github&count_private=true&show_icons=true&theme=holi)
+![ryosukeoya github stats](https://github-readme-stats.vercel.app/api?username=ryosukeoya&theme=tokyonight&hide_border=false&disable_animations=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosukeoya&langs_count=16&theme=holi&layout=compact&hide=Blade)<br>
